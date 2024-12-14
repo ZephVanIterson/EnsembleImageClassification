@@ -1,0 +1,6 @@
+python test_ensemble.py -b 32 -m max -e 5
+python test_ensemble.py -b 32 -m max -e fc
+python test_ensemble.py -b 32 -m avg -e 5
+python test_ensemble.py -b 32 -m avg -e fc
+python test_ensemble.py -b 32 -m vote -e 5
+python test_ensemble.py -b 32 -m vote -e fc

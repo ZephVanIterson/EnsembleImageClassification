@@ -1,0 +1,6 @@
+python test.py -b 32 -m a -e 5
+python test.py -b 32 -m a -e fc
+python test.py -b 32 -m v -e 5
+python test.py -b 32 -m v -e fc
+python test.py -b 32 -m r -e 5
+python test.py -b 32 -m r -e fc

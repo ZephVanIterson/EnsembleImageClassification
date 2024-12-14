@@ -1,0 +1,1 @@
+python train.py -m v -b 32 -e 30
